@@ -27,6 +27,8 @@ void ex3(void)
     printf("a = %d b = %d\n", a, b);
 }
 
+// ex4
+
 int main(void)
 {
     ex1();
